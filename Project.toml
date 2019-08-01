@@ -1,0 +1,7 @@
+name = "INIBuilder"
+uuid = "f73d3ad2-b0c7-11e9-1f44-136428e9be6c"
+authors = ["Ranjan Anantharaman <ranjan.anantharaman@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
